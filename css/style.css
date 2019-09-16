@@ -1,0 +1,168 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    margin-left: 51px;
+    margin-top: 274px;
+    width: 274px;
+    height: 88px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container0row0 {
+    display: flex;
+    width: 141px;
+    height: 33px;
+    align-items: stretch
+  }
+  .style1,
+  .style2 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 0;
+    width: 33px
+  }
+  .style2 {
+    margin-left: 9px;
+    width: 99px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    margin-left: 104px;
+    margin-top: 561px;
+    width: 561px;
+    height: 180px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container0row0 {
+    display: flex;
+    width: 289px;
+    height: 68px;
+    align-items: stretch
+  }
+  .style1,
+  .style2 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 0;
+    width: 68px
+  }
+  .style2 {
+    margin-left: 18px;
+    width: 203px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    margin-left: 125px;
+    margin-top: 672px;
+    width: 672px;
+    height: 216px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container0row0 {
+    display: flex;
+    width: 346px;
+    height: 81px;
+    align-items: stretch
+  }
+  .style1,
+  .style2 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 0;
+    width: 81px
+  }
+  .style2 {
+    margin-left: 22px;
+    width: 243px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    margin-left: 163px;
+    margin-top: 877px;
+    width: 877px;
+    height: 282px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container0row0 {
+    display: flex;
+    width: 451px;
+    height: 106px;
+    align-items: stretch
+  }
+  .style1,
+  .style2 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 0;
+    width: 106px
+  }
+  .style2 {
+    margin-left: 29px;
+    width: 317px
+  }
+}
